@@ -3,7 +3,7 @@ An art space for dep project
 
 # The dep logo
  
-<img src="logo-500x500.png" alt=“dep” width="500" height=“500”>
+<img src="logo-500x500.png" alt="dep" width="500" height="500">
 
 # Credits
 
